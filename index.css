@@ -11,6 +11,10 @@
     border-radius: 50%;
 }
 
+#info2 span{
+    font-size: 0.591em;
+}
+
 
 @media (min-width:320px){
      /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
@@ -43,7 +47,7 @@
     #sieve{
         row-gap: 10px;
         column-gap: 2px;
-        background-color: rgb(202, 199, 198);
+        background-color: rgb(37, 34, 32);
         padding-left: 10px;
         padding-right: 10px;
         padding-top: 5px;
@@ -58,7 +62,17 @@
         width: 30px;
         
     }
+
+    #info2{
+        
+        display: grid;
+        flex-direction: column;
+        align-items: baseline;
+        justify-content: center;
+        text-align: center;
     
+    }
+
 }
 
 
@@ -88,6 +102,17 @@
         height: 60px;
         width: 60px;
     }
+
+    #info2{
+
+        display: grid;
+        flex-direction: column;
+        align-items: baseline;
+        justify-content: center;
+        text-align: center;
+    
+    }
+    
 }
 
 @-webkit-keyframes blackWhite {  
@@ -135,6 +160,7 @@
   }
 
 .blinkdiv {
+        font-size: smaller;
       -webkit-animation-name: blackWhite;  
       -webkit-animation-iteration-count: infinite;  
       -webkit-animation-duration: 2.50s; 
