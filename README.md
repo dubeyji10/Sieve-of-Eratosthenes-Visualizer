@@ -7,4 +7,4 @@
 
 # v2 new commit using promise and await ( better than nested settimeout )
 
-[![Screencast-from-21-04-22-07_01_47-PM-IST.gif](https://s10.gifyu.com/images/Screencast-from-21-04-22-07_01_47-PM-IST.gif)](https://gifyu.com/image/SLFVU)
+[![Screencast-from-21-04-22-07-01-47-PM-IST.gif](https://i.postimg.cc/J0nnJBcF/Screencast-from-21-04-22-07-01-47-PM-IST.gif)](https://postimg.cc/k60qPGHN)
